@@ -9,6 +9,7 @@ To write a python program to find the inverse of a matrix
 ### Step 2: Define the matrix 'a'
 ### Step 3: calculate the inverse of the matrix
 ### Step 4: print the inverse matrix
+### step 5: End the program 
 
 ## Program:
 ```
